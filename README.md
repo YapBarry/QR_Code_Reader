@@ -1,5 +1,11 @@
 # QR_Code_Reader
-Key in the below code in root directory to run the QR Code Reader.
+
+Start by installing the dependencies in the root directory.
+```
+pip install requirements.txt
+```
+
+Key in the below code in the root directory to run the QR Code Reader.
 ```
 python main.py
 ```

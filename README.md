@@ -1,5 +1,5 @@
 # QR_Code_Reader
-Key in the below code in root directory to run the QR Code Reader
+Key in the below code in root directory to run the QR Code Reader.
 ```
 python main.py
 ```
